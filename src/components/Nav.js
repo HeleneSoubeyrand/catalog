@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-class Film extends Component {
+class Nav extends Component {
     render() {
         return (
             <div>
@@ -10,4 +10,4 @@ class Film extends Component {
     }
 }
 
-export default Film;
+export default Nav;
